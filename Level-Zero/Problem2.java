@@ -12,6 +12,8 @@ package euler.level.zero;
  * By considering the terms in the Fibonacci sequence whose
  * values do not exceed four million, find the sum of the
  * even-valued terms.
+ * 
+ * @author smittyfest
  */
 public class Problem2 {
   public static void main(String[] args) {
