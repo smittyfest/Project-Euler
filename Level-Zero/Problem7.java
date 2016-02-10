@@ -8,7 +8,7 @@ package euler.level.zero;
  *
  * What is the 10,001st prime number?
  *
- * @author
+ * @author smittyfest
  */
 public class Problem7 {
   public static void main(String[] args) {
