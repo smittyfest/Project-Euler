@@ -33,7 +33,7 @@ package euler.level.zero;
  *
  * What is the value of this product?
  *
- * @author
+ * @author smittyfest
  */
 public class Problem8 {
   public static void main(String[] args) {
