@@ -12,7 +12,7 @@ import java.util.stream.IntStream;
  * 
  * @author smittyfest
  */
-public class Problem1 {
+public class Problem01 {
   public static void main(String[] args) {
 
     final int limit = 1000;
