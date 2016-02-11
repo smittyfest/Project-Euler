@@ -10,7 +10,7 @@ package euler.level.zero;
  *
  * @author smittyfest
  */
-public class Problem7 {
+public class Problem07 {
   public static void main(String[] args) {
     int limit = 10001;
     long current = 1;
