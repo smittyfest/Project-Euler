@@ -11,7 +11,7 @@ package euler.level.zero;
  * 
  * @author smittyfest
  */
-public class Problem4 {
+public class Problem04 {
   public static void main(String[] args) {
     long result;
     long max = 0;
