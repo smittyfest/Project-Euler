@@ -23,7 +23,7 @@ import com.google.common.math.DoubleMath;
  *
  * @author smittyfest
  */
-public class Problem6 {
+public class Problem06 {
   public static void main(String[] args) {
     int limit = 100;
     System.out.println(sumOfSquares(limit));
