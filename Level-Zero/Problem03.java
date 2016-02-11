@@ -9,7 +9,7 @@ package euler.level.zero;
  * 
  * @author smittyfest
  */
-public class Problem3 {
+public class Problem03 {
   public static void main(String[] args) {
     Long target = 600851475143L;
     System.out.println(findMaxPrimeFactor(target));
