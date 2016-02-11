@@ -11,7 +11,7 @@ package euler.level.zero;
  *
  * @author smittyfest
  */
-public class Problem5 {
+public class Problem05 {
   public static void main(String[] args) {
     int limit = 20;
     for (int i = limit * 2; i < Integer.MAX_VALUE; i += limit) {
