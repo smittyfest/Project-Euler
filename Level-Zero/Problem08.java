@@ -35,7 +35,7 @@ package euler.level.zero;
  *
  * @author smittyfest
  */
-public class Problem8 {
+public class Problem08 {
   public static void main(String[] args) {
 
     String number = "73167176531330624919225119674426574742355349194934" +
