@@ -16,7 +16,7 @@ package euler.level.zero;
  *
  * @author smittyfest
  */
-public class Problem9 {
+public class Problem09 {
   public static void main(String[] args) {
     for (int first = 1; first < 1000; ++first) {
       for (int second = first; second < 1000; ++second) {
